@@ -1,7 +1,7 @@
-﻿# 知识面经汇总
+﻿# 自己整理了一些知识点和前端的面经汇总
 
-* 前端 
-  
+* 链接地址 
    https://github.com/CodingMeUp/some_notes/issues
 
-* 后端
+
+## 不定期持续更新
